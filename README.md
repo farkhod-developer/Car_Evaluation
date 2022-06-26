@@ -10,4 +10,4 @@ Predict acceptibility of a car
 ![image](https://user-images.githubusercontent.com/97735053/175822767-4f2213c2-c238-4506-9246-67f89fef6314.png)
 
 # RandomForestClassifier
-`DecisionTrees's Accuracy: 0.97%`
+`DecisionTrees's Accuracy: 0.97`
