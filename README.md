@@ -18,8 +18,8 @@ Predict acceptibility of a car
        vgood       1.00      0.94      0.97        17
 
     accuracy                           0.97       346
-   macro avg       0.90      0.96      0.91       346
-weighted avg       0.98      0.97      0.97       346
+    macro avg      0.90      0.96      0.91       346
+    weighted avg   0.98      0.97      0.97       346
 
 
 `DecisionTrees's Accuracy: 0.97`
