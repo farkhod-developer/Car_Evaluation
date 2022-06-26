@@ -10,8 +10,8 @@ Predict acceptibility of a car
 ![image](https://user-images.githubusercontent.com/97735053/175822767-4f2213c2-c238-4506-9246-67f89fef6314.png)
 
 # RandomForestClassifier
-  precision    recall  f1-score   support
-
+ 
+              precision    recall  f1-score   support
          acc       0.99      0.88      0.93        83
         good       0.61      1.00      0.76        11
        unacc       0.99      1.00      0.99       235
